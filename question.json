@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": [
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctOptionIndex": 1
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Charles Dickens",
+      "Jane Austen",
+      "Leo Tolstoy"
+    ],
+    "correctOptionIndex": 0
+  },
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": [
+      "Elephant",
+      "Giraffe",
+      "Lion",
+      "Tiger"
+    ],
+    "correctOptionIndex": 2
+  }
+];
